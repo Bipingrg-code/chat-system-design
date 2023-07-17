@@ -1,0 +1,8 @@
+.home__bg{
+    background-image: url('../../assets/bg-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+    height: 85vh;
+}

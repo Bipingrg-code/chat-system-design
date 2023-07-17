@@ -1,0 +1,14 @@
+.signup__bg{
+    background-image: url('../../assets/signup-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+    height: 100vh;
+}
+.py-4{
+    padding-left: 14px;
+}
+.text-center{
+    text-align: center;
+}
