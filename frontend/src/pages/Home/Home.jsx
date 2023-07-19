@@ -10,7 +10,7 @@ function Home() {
                     <div>
                         <h1>Share the world with your friends</h1>
                         <p>Chat app lets connect wih world</p>
-                        <LinkContainer to="/chat">
+                        <LinkContainer to="/signup">
                             <Button varient="success"><i className="fas fa-comments home-message-icons"></i> Get Started</Button>
                         </LinkContainer>
                     </div>
